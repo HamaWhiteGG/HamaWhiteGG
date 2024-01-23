@@ -20,6 +20,7 @@ I’m currently working on LLM agent and big data.
 
 1. [[Apache CommunityOverCode Asia 2023] Flinksql's field lineage and data permission solution](https://apachecon.com/acasia2023/sessions/streaming-1110.html)
 2. [[Flink Forward Asia 2023] Entering the Future: Empowering Flink Intelligence with Large Models](https://flink-forward.org.cn/)
+3. [第六届金猿奖《2023大数据产业年度趋势人物》](https://mp.weixin.qq.com/s/Bw5lRlUQHWcTOYndvyr0xQ)
 
 
 ### Research
